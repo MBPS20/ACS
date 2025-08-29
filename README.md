@@ -1,4 +1,4 @@
-# GENIEACS INSTALL MULTITAB
+
 
 # GENIEACS INSTALL MBPS20
 
@@ -219,6 +219,7 @@ docker-compose up -d
 ## Lisensi
 
 2025 MBPS20 ACS MULTITAB
+
 
 
 
